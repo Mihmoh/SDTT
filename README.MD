@@ -24,7 +24,7 @@ Technologies used in this project:
 * Flow;
 * Coroutines.
 
-Matusevich Semen + Mikhailovsky Mikhail + Przhelyaskovskaya Varvara + Mainich Nikita
+This project is made by: Matusevich Semen, Mikhailovsky Mikhail, Przhelyaskovskaya Varvara, Mainich Nikita.
 
 [SDS](https://github.com/Xotab413/SDTT/blob/main/SDS/README.md)
 
